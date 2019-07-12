@@ -1,0 +1,12 @@
+Variables
+   nombreSaisi
+
+Début
+
+   Afficher "Tapez un nombre, S'il vous plaîte"
+   Lire nombreSaisi
+   Pour nombreSaisi de Vn à Vf (par pas de P), faire
+       Afficher "Bienvenue à la wild" 
+   n suivant
+
+Fin
