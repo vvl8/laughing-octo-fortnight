@@ -3,10 +3,10 @@ Variables
 
 Début
 
-   Afficher "Tapez un nombre, S'il vous plaîte"
+   Afficher "Tapez un nombre, s'il vous plaît"
    Lire nombreSaisi
-   Pour nombreSaisi de Vn à Vf (par pas de P), faire
+   Pour i de 1 jusqu'à nombreSaisi avec un pas de 1, faire
        Afficher "Bienvenue à la wild" 
-   n suivant
+   Fin Pour
 
 Fin
