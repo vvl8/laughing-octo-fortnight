@@ -1,0 +1,14 @@
+Variables
+    argent
+    prix
+    MaxiBonbons[<entier>]
+
+Début 
+
+   Lire argent, prix   
+      Si argent > 0 ET prix > 0, alors
+         MaxiBonbons ← argent / prix
+      Retourner MaxiBonbons        
+      Fin Si
+
+Fin 
