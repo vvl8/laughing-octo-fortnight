@@ -2,7 +2,7 @@
 ##### _Actuellement en formation Data Analyst à Wild Cold School_
 
 
-### **Enseignement**  
+### **_Enseignement_**  
 
 
 #### 2019-09   **Data Analyst** - [**_Wild Code School_**](https://www.youtube.com/watch?v=J5_vcGLSPBc&feature=youtu.be) 
@@ -11,7 +11,7 @@
 #### 2010 -2013 **Master of Science** - International marketing & Business Development - [**_SKEMA business school_**](https://www.youtube.com/watch?v=KduX25r1c6w) 
 
 
-### **Expérience Professionnelle**
+### **_Expérience Professionnelle_**
 * **Assistant Marketing**
   * En charge d'une Etude de marché internationaux
   * mettre en oeuvre une campagnes promotionnelle
@@ -19,7 +19,7 @@
 * **Assistant Administratif**
   * Réalise le traitement commercial et administratif des commandes des clients dans un objectif de qualité  
  
-### **Centre d'intérêt**
+### **_Centre d'intérêt_**
 * Cinéma
 * Cuisiner
 * Sport
