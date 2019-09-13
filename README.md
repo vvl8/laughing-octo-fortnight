@@ -2,7 +2,7 @@
 ##### _Actuellement en formation Data Analyst à Wild Cold School_
 
 
-### **Enseignement **  
+### **Enseignement**  
 
 
 #### 2019-09   **Data Analyst** - [**_Wild Code School_**](https://www.youtube.com/watch?v=J5_vcGLSPBc&feature=youtu.be) 
