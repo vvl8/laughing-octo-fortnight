@@ -13,7 +13,7 @@
 
 ### Expérience Professionnelle
 * **Assistant Marketing**
-  * En charge d'une Etude de marcher internationaux
+  * En charge d'une Etude de marché internationaux
   * mettre en oeuvre une campagnes promotionnelle
   * Réaliser le bilan des actions marketing
 * **Assistant Administratif**
