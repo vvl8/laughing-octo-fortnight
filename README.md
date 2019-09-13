@@ -5,7 +5,7 @@
 ### Enseignement   
 
 
-#### 2019-09   **Data Analyst** - **_Wild Code School_** 
+#### 2019-09   **Data Analyst** - [**_Wild Code School_**](https://www.youtube.com/watch?v=J5_vcGLSPBc&feature=youtu.be) 
 
 
 #### 2010 -2013 **Master of Science** - International marketing & Business Development - **_SKEMA business school_** 
